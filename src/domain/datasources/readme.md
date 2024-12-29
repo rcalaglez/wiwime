@@ -1,0 +1,1 @@
+Contiene las reglas de negocio (no implementaciones) de las cuales se rige la obtencion de datos.
